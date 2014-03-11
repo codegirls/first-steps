@@ -36,6 +36,16 @@ A list of useful learning resources, by topic.
 * (a lot of) stumbling around is normal!
 * use the developer tools of your browser
 
+## Tools
+
+* [Sublime Text](http://www.sublimetext.com/)
+* [Light Table](http://www.lighttable.com/), has very cool features for
+    live-coding, but probably only useful in this project if we're going
+    to use JavaScript.
+
+* [NeoCities](https://neocities.org/), allows anyone to easily publish
+    simple web pages.
+
 ## CSS
 
 * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/),
