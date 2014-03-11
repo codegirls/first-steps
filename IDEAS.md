@@ -1,4 +1,3 @@
-...
 ## First Steps (Tutorial)
 
 ## 1. The Reason
