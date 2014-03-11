@@ -44,6 +44,9 @@ A list of useful learning resources, by topic.
     kind of a sequel to the above
 * an [article](http://www.stubbornella.org/content/2012/05/02/cross-browser-debugging-css/)
     about things to look out for when your CSS does weird things
+* a [nice article](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
+    with a few suggestions on what to do in which order (has some links
+    to paid courses though, but the advice is still good)
 
 ## Other
 
