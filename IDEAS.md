@@ -6,8 +6,19 @@ Maybe we can even build in a tool, which allows the users to connect and / or th
 
 _Important: This should not be something the girls just click through but a real learning experience, where they need to master little tasks by using by previous aquired knowledge, while gaining new skills and experimenting with new code._
 
+## 2. Goals
 
-## 2. Examples
+* learn the basics of web development by creating a self-contained
+    project
+* the project should be something that they can show to others and
+    continue to build on
+* a starting point for learning more (e.g. point out improvements,
+    resources for learning, project ideas)
+* should show people that they can create something on the web, but
+    still be challenging (which itself is challenging, but it should be
+    approachable and not too simple at the same time)
+
+## 3. Examples
 
 Example for a chapter with a task in build-in web editor: [Tryit Editor v1.9](http://www.w3schools.com/cssref/tryit.asp?filename=trycss3_keyframes)
 
