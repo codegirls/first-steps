@@ -12,7 +12,5 @@ _Important: This should not be something the girls just click through but a real
 
 Example for a chapter with a task in build-in web editor: [Tryit Editor v1.9](http://www.w3schools.com/cssref/tryit.asp?filename=trycss3_keyframes)
 
-
-
-
-
+A [similar editor](https://thimble.webmaker.org/) made by Mozilla, part of a [larger project](https://webmaker.org/)
+that aims to make it easier to create for the web and get started.
