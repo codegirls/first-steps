@@ -17,6 +17,7 @@ _Important: This should not be something the girls just click through but a real
 * should show people that they can create something on the web, but
     still be challenging (which itself is challenging, but it should be
     approachable and not too simple at the same time)
+* the projcet (which I call app, but Lucas won't) should function as an first-step tutorial, especially for cases when coaches to have time to sit down with a beginner during the whole Code Girls session.
 
 ## 3. Examples
 
