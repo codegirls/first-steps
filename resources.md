@@ -46,6 +46,8 @@ A list of useful learning resources, by topic.
 * [NeoCities](https://neocities.org/), allows anyone to easily publish
     simple web pages.
 
+* [Code School - Try Git](http://try.github.io/levels/1/challenges/1) 15 minute introduction to git.
+
 ## CSS
 
 * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/),
