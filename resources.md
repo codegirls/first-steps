@@ -47,6 +47,7 @@ A list of useful learning resources, by topic.
     simple web pages.
 
 * [Code School - Try Git](http://try.github.io/levels/1/challenges/1) 15 minute introduction to git.
+* [Git Immersion](http://gitimmersion.com/) A Walk Through Guide for git
 
 ## CSS
 
