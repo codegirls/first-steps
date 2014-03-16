@@ -24,6 +24,8 @@ A list of useful learning resources, by topic.
 * [StackOverflow](http://stackoverflow.com) has lots of answers to
     specific questions on many programming topics.
 
+* [Coding Ressources Rails Girls Berlin](http://de.slideshare.net/berlintam/rails-girls-resources) An Overview about Beginners Ressources from the Rails Girls Berlin Chapter.
+
 ## Tips & Techniques
 
 * Look for something you'd like to learn ("center text on the page",
