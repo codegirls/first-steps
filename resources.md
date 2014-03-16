@@ -36,6 +36,7 @@ A list of useful learning resources, by topic.
     can't do it, try something smaller.
 * Your Favourite Search Engine is your friend
 * (a lot of) stumbling around is normal!
+* Don't give up, take a break, watch a cute kitty video and try again. Most times, once you cleared you mind, the solution is found much easier.
 * use the developer tools of your browser
 
 ## Tools
