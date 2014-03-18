@@ -32,7 +32,7 @@ A list of useful learning resources, by topic.
 
 * Look for something you'd like to learn ("center text on the page",
     "have a menubar at the top of my page", "make all odd paragraphs
-    have this awesome backgroun") and try to do that. Often there are
+    have this awesome background") and try to do that. Often there are
     lots of tutorials on the topic and lots of code examples you can
     learn from. It's very important to do it in small steps. If you
     can't do it, try something smaller.
