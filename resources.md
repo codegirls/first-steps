@@ -26,6 +26,8 @@ A list of useful learning resources, by topic.
 
 * [Coding Ressources Rails Girls Berlin](http://de.slideshare.net/berlintam/rails-girls-resources) An Overview about Beginners Ressources from the Rails Girls Berlin Chapter.
 
+*[Gibbon](https://gibbon.co/playlist) Learn from the Web: Create your own playlist about a topic like CSS3 or Web Development and receive a 30 minute per week knowledge "playlist", e.g. articles or presentations. More a theoretically approach for people who want to learn more about "why".
+
 ## Tips & Techniques
 
 * Look for something you'd like to learn ("center text on the page",
