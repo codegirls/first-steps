@@ -18,8 +18,21 @@ _Important: This should not be something the girls just click through but a real
     still be challenging (which itself is challenging, but it should be
     approachable and not too simple at the same time)
 * the projcet (which I call app, but Lucas won't) should function as an first-step tutorial, especially for cases when coaches to have no time to sit down with a beginner during the whole Code Girls session.
+* Better Onboarding 
+* More professionalism
 
-## 3. Examples
+## 3. Characteristics
+* Easy Onboarding and Log-In
+* Pick up where you left
+* Structured learning experience according to Code Girls focal points
+* User friendly navigation
+* Direct user approach
+* Short Chapters taking the user through a specific topic e.g. the box modell
+* Interactive
+* Images, drawings diagrams and links for further information
+* Clean code
+
+## 4. Examples
 
 Example for a chapter with a task in build-in web editor: [Tryit Editor v1.9](http://www.w3schools.com/cssref/tryit.asp?filename=trycss3_keyframes)
 
