@@ -12,6 +12,7 @@ This is just a rough draft of ideas for the structure of the module:
 Typical questions in the module could include somethings like this.
 
 * How would integrate an image? Or an link? Encourage one's own initiative to explore learning ressources to find a solution.
+* make your own [Histagram](http://histagrams.com)
 
 ## Building the App
 
@@ -21,7 +22,6 @@ Typical questions in the module could include somethings like this.
 * Estimated amount of HTML sites: 25
 * Lucas will build the first example tutorial and show us whats possible with basic HTML. From there we'll build the other tutorials.
 * Estimated Time frame: 2 months. 
-
 
 ## What's the endgame?
 
