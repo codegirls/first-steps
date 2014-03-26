@@ -65,6 +65,7 @@ A list of useful learning resources, by topic.
 * a [nice article](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
     with a few suggestions on what to do in which order (has some links
     to paid courses though, but the advice is still good)
+* [CSS Diner- Where we feast on CSS Selectors](http://flukeout.github.io/)  A little game developed by the Rails Girls Berlin CHapter. 
 
 ## Other
 
