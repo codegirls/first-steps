@@ -67,6 +67,13 @@ A list of useful learning resources, by topic.
     to paid courses though, but the advice is still good)
 * [CSS Diner- Where we feast on CSS Selectors](http://flukeout.github.io/)  A little game developed by the Rails Girls Berlin CHapter. 
 
+## Programming
+
+* [ClojureBridge](https://github.com/ClojureBridge/curriculum#readme) is a programming
+    bootcamp similar to other initiatives in the Ruby space, but using Clojure. They
+    use nice examples for the initial exercises ("convert your height to feet",
+    "average height of people around you", e.g. both relatable and a bit interactive)
+
 ## Other
 
 * [HTMLDog](http://www.htmldog.com/guides/) has quite a few tutorials on
