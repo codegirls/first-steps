@@ -73,6 +73,9 @@ A list of useful learning resources, by topic.
     bootcamp similar to other initiatives in the Ruby space, but using Clojure. They
     use nice examples for the initial exercises ("convert your height to feet",
     "average height of people around you", e.g. both relatable and a bit interactive)
+* [GitBook](http://www.gitbook.io/) does quite a few things already, maybe we can use that?
+    It already supports [evaluating JavaScript](https://github.com/GitbookIO/gitbook#exercises)
+    and validating it, so maybe we could add HTML support?
 
 ## Other
 
