@@ -60,6 +60,8 @@ A list of useful learning resources, by topic.
     explains the concepts nicely, from what i can tell
 * [An Advanced Guid to HTML & CSS](http://learn.shayhowe.com/advanced-html-css/),
     kind of a sequel to the above
+* [Learn CSS Layout](http://learnlayout.com/), a very cool and quite comprehensive tutorial.
+    Many different techniques (including media queries and flexbox) in one place.
 * an [article](http://www.stubbornella.org/content/2012/05/02/cross-browser-debugging-css/)
     about things to look out for when your CSS does weird things
 * a [nice article](http://webdesign.tutsplus.com/tutorials/the-best-way-to-learn-css--webdesign-11906)
