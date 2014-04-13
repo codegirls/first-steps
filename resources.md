@@ -78,6 +78,9 @@ A list of useful learning resources, by topic.
 * [GitBook](http://www.gitbook.io/) does quite a few things already, maybe we can use that?
     It already supports [evaluating JavaScript](https://github.com/GitbookIO/gitbook#exercises)
     and validating it, so maybe we could add HTML support?
+* [Untrusted](http://alexnisnevich.github.io/untrusted/), a game where you modify the world
+    using JavaScript to proceed. It's a little bit tricky, though, but maybe with a little
+    bit of guidance it would be fun.
 
 ## Other
 
